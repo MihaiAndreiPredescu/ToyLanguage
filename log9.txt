@@ -1,0 +1,617 @@
+Stack contains: (int v;(v=4;(While(v GREATER 0){(print(v);v=v MINUS 1)};print(v))))
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: (v=4;(While(v GREATER 0){(print(v);v=v MINUS 1)};print(v)))
+int v
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: (v=4;(While(v GREATER 0){(print(v);v=v MINUS 1)};print(v)))
+int v
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: (v=4;(While(v GREATER 0){(print(v);v=v MINUS 1)};print(v)))
+
+Dictionary contains: v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: (v=4;(While(v GREATER 0){(print(v);v=v MINUS 1)};print(v)))
+
+Dictionary contains: v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: (While(v GREATER 0){(print(v);v=v MINUS 1)};print(v))
+v=4
+
+Dictionary contains: v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: (While(v GREATER 0){(print(v);v=v MINUS 1)};print(v))
+v=4
+
+Dictionary contains: v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: (While(v GREATER 0){(print(v);v=v MINUS 1)};print(v))
+
+Dictionary contains: v -> 4
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: (While(v GREATER 0){(print(v);v=v MINUS 1)};print(v))
+
+Dictionary contains: v -> 4
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 4
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 4
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+(print(v);v=v MINUS 1)
+
+Dictionary contains: v -> 4
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+(print(v);v=v MINUS 1)
+
+Dictionary contains: v -> 4
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+print(v)
+
+Dictionary contains: v -> 4
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+print(v)
+
+Dictionary contains: v -> 4
+
+List contains: 
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+
+Dictionary contains: v -> 4
+
+List contains: 4
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+
+Dictionary contains: v -> 4
+
+List contains: 4
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 3
+
+List contains: 4
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 3
+
+List contains: 4
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+(print(v);v=v MINUS 1)
+
+Dictionary contains: v -> 3
+
+List contains: 4
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+(print(v);v=v MINUS 1)
+
+Dictionary contains: v -> 3
+
+List contains: 4
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+print(v)
+
+Dictionary contains: v -> 3
+
+List contains: 4
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+print(v)
+
+Dictionary contains: v -> 3
+
+List contains: 4
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+
+Dictionary contains: v -> 3
+
+List contains: 4
+3
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+
+Dictionary contains: v -> 3
+
+List contains: 4
+3
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 2
+
+List contains: 4
+3
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 2
+
+List contains: 4
+3
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+(print(v);v=v MINUS 1)
+
+Dictionary contains: v -> 2
+
+List contains: 4
+3
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+(print(v);v=v MINUS 1)
+
+Dictionary contains: v -> 2
+
+List contains: 4
+3
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+print(v)
+
+Dictionary contains: v -> 2
+
+List contains: 4
+3
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+print(v)
+
+Dictionary contains: v -> 2
+
+List contains: 4
+3
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+
+Dictionary contains: v -> 2
+
+List contains: 4
+3
+2
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+
+Dictionary contains: v -> 2
+
+List contains: 4
+3
+2
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 1
+
+List contains: 4
+3
+2
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 1
+
+List contains: 4
+3
+2
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+(print(v);v=v MINUS 1)
+
+Dictionary contains: v -> 1
+
+List contains: 4
+3
+2
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+(print(v);v=v MINUS 1)
+
+Dictionary contains: v -> 1
+
+List contains: 4
+3
+2
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+print(v)
+
+Dictionary contains: v -> 1
+
+List contains: 4
+3
+2
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+print(v)
+
+Dictionary contains: v -> 1
+
+List contains: 4
+3
+2
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+
+Dictionary contains: v -> 1
+
+List contains: 4
+3
+2
+1
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+v=v MINUS 1
+
+Dictionary contains: v -> 1
+
+List contains: 4
+3
+2
+1
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 0
+
+List contains: 4
+3
+2
+1
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+While(v GREATER 0){(print(v);v=v MINUS 1)}
+
+Dictionary contains: v -> 0
+
+List contains: 4
+3
+2
+1
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+
+Dictionary contains: v -> 0
+
+List contains: 4
+3
+2
+1
+
+File table:
+
+Heap:
+
+
+Stack contains: print(v)
+
+Dictionary contains: v -> 0
+
+List contains: 4
+3
+2
+1
+
+File table:
+
+Heap:
+
+
+Stack contains: 
+Dictionary contains: v -> 0
+
+List contains: 4
+3
+2
+1
+0
+
+File table:
+
+Heap:
+
+
+Stack contains: 
+Dictionary contains: v -> 0
+
+List contains: 4
+3
+2
+1
+0
+
+File table:
+
+Heap:
+
+

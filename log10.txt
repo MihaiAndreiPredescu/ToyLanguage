@@ -1,0 +1,2202 @@
+Current prg state with id: 1
+Stack contains: Ref int a;Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int a
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int a
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int b
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int b
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+int v
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+int v
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(a,0)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(a,0)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(b,0)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(b,0)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+a = 1
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+a = 1
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+b = 2
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+b = 2
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+IF(a SMALLER b) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+IF(a SMALLER b) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+v=100
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+v=100
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+IF(b MINUS 2 GREATER a) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+IF(b MINUS 2 GREATER a) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+v=200
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+v=200
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 200
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 200
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: 
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 200
+
+List contains: 100
+200
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: Ref int a;Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int a
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int a
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int b
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int b
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+int v
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+int v
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(a,0)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(a,0)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(b,0)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(b,0)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+a = 1
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+a = 1
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+b = 2
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+b = 2
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+IF(a SMALLER b) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+IF(a SMALLER b) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+v=100
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+v=100
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+IF(b MINUS 2 GREATER a) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+IF(b MINUS 2 GREATER a) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+v=200
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+v=200
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 200
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 200
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: 
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 200
+
+List contains: 100
+200
+
+File table:
+
+Heap:
+1->1
+2->2
+
+
+Current prg state with id: 1
+Stack contains: Ref int a;Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int a
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int a
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: Ref int b;int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int b
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+Ref int b
+
+Dictionary contains: a -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: int v;new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+int v
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+int v
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: new(a,0);new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(a,0)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(a,0)
+
+Dictionary contains: a -> RefValue 0, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+{}
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+{}
+Current prg state with id: 1
+Stack contains: new(b,0);a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+{}
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(b,0)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+{}
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+new(b,0)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 0, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+
+{}
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+{}
+Current prg state with id: 1
+Stack contains: a = 1;b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+{}
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+a = 1
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+{}
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+a = 1
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->0
+2->0
+
+{}
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+{}
+Current prg state with id: 1
+Stack contains: b = 2;ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+{}
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+b = 2
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+{}
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+b = 2
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->0
+
+{}
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200};print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+ConditionalAssignment{v='v', exp1=a SMALLER b, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+IF(a SMALLER b) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+IF(a SMALLER b) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+v=100
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+v=100
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 0
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v);ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200};print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v)
+ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v)
+ConditionalAssignment{v='v', exp1=b MINUS 2 GREATER a, exp2=100, exp3=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v)
+IF(b MINUS 2 GREATER a) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v)
+IF(b MINUS 2 GREATER a) THEN{v=100}ELSE{v=200}
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v)
+v=200
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v)
+v=200
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 100
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 200
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: print(v)
+
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 200
+
+List contains: 100
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}
+Current prg state with id: 1
+Stack contains: 
+Dictionary contains: a -> RefValue 1, int
+b -> RefValue 2, int
+v -> 200
+
+List contains: 100
+200
+
+File table:
+
+Heap:
+1->1
+2->2
+
+{}

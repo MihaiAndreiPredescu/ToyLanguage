@@ -1,0 +1,178 @@
+Current prg state with id: 2
+Stack contains: int a;StringType b;a=2 PLUS 3 MULTIPLY 5;b=a PLUS 1;print(b)
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: StringType b;a=2 PLUS 3 MULTIPLY 5;b=a PLUS 1;print(b)
+int a
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: StringType b;a=2 PLUS 3 MULTIPLY 5;b=a PLUS 1;print(b)
+int a
+
+Dictionary contains: 
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: StringType b;a=2 PLUS 3 MULTIPLY 5;b=a PLUS 1;print(b)
+
+Dictionary contains: a -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: StringType b;a=2 PLUS 3 MULTIPLY 5;b=a PLUS 1;print(b)
+
+Dictionary contains: a -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: a=2 PLUS 3 MULTIPLY 5;b=a PLUS 1;print(b)
+StringType b
+
+Dictionary contains: a -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: a=2 PLUS 3 MULTIPLY 5;b=a PLUS 1;print(b)
+StringType b
+
+Dictionary contains: a -> 0
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: a=2 PLUS 3 MULTIPLY 5;b=a PLUS 1;print(b)
+
+Dictionary contains: a -> 0
+b -> 
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: a=2 PLUS 3 MULTIPLY 5;b=a PLUS 1;print(b)
+
+Dictionary contains: a -> 0
+b -> 
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: b=a PLUS 1;print(b)
+a=2 PLUS 3 MULTIPLY 5
+
+Dictionary contains: a -> 0
+b -> 
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: b=a PLUS 1;print(b)
+a=2 PLUS 3 MULTIPLY 5
+
+Dictionary contains: a -> 0
+b -> 
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: b=a PLUS 1;print(b)
+
+Dictionary contains: a -> 17
+b -> 
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: b=a PLUS 1;print(b)
+
+Dictionary contains: a -> 17
+b -> 
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: print(b)
+b=a PLUS 1
+
+Dictionary contains: a -> 17
+b -> 
+
+List contains: 
+File table:
+
+Heap:
+
+
+Current prg state with id: 2
+Stack contains: print(b)
+b=a PLUS 1
+
+Dictionary contains: a -> 17
+b -> 
+
+List contains: 
+File table:
+
+Heap:
+
+
