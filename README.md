@@ -1,2 +1,2 @@
 # ToyLanguage
-New programming language in python
+Programming language basics built from 0 in java
